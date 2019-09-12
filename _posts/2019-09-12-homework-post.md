@@ -5,7 +5,7 @@ subtitle: Homework Assignment 1
 tags: [homework, assignments, sewing]
 comments: true
 ---
-# *Hello! Welcome to _my_ new website!*
+# Hello! Welcome to _my_ new website!
 
 I'm Nicolle Mac Williams, and I am a sophomore at the college. I'm declaring my major this semester, and I believe that I will be a Theatre and Art History double major.
 
@@ -21,7 +21,7 @@ I'm Nicolle Mac Williams, and I am a sophomore at the college. I'm declaring my 
 ## What I hope to learn in class: 
 I would like to have some practical coding skills as well as some knowledge of circuitry. I would also at some point like to take CSCI 134, so it would be great to have some experience with coding that would help me succeed in that course. 
 
-# One Boring Fact about Me: 
+#### One Boring Fact about Me: 
 * I had a salad for dinner last night (aka Wednesday, September 11th, 2019).
 
 The classes that I'm taking this semester (I just wanted to try this out):
