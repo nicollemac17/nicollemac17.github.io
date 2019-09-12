@@ -10,7 +10,7 @@ My personal website, [markdown](http://nicollemac17.github.io) here and Jekyll w
 
 Some numbers I like:
 
-| I like this number | I feel indifferent | I don't really like: |
+| I like: | I feel indifferent:| I don't really like: |
 | :------ |:--- | :--- |
 | Five | Six | Four |
 | Ten | Eleven | Nine |
