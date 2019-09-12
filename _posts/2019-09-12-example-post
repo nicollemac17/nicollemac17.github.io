@@ -1,0 +1,19 @@
+---
+layout: post
+title: Nicolle's ~New~ Post 
+subtitle: Trying something new for class
+tags: [test, post, new, fun, fresh]
+comments: true
+---
+
+My personal website, [markdown](http://nicollemac17.github.io) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+
+Some numbers I like:
+
+| I like this number | I feel indifferent | I don't really like: |
+| :------ |:--- | :--- |
+| Five | Six | Four |
+| Ten | Eleven | Nine |
+| Seven | Eight | Six |
+| Two | Three | One |
+
