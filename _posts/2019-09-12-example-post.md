@@ -3,7 +3,7 @@ layout: post
 title: Nicolle's ~New~ Post 
 subtitle: Trying something new for class
 tags: [test, post, new, fun, fresh]
-bigimg: /img/path.jpg
+bigimg: /img/Screen Shot 2019-09-12 at 10.41.24 AM.png
 comments: true
 ---
 
