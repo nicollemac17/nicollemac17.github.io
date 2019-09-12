@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me! 
+subtitle: Why I am taking CSCI 103
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am taking this class for the following reasons:
+- I have always wanted to take a Computer Science Course
+- I love sewing and knitting 
+- This class semed like a great combination of some of the interests that I do not get to commonly explore! 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+# About Me: 
+## I'm a sophomore theater (and art history ?) major that comes to the Berkshires from Knoxville, TN. 
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
