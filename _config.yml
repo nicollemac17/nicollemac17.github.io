@@ -43,12 +43,12 @@ avatar: "img/31067455_1615193915261476_7857097324660569211_n.jpg
 
 navbar-col: "#4db8ff"
 navbar-text-col: "#ffffff"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#4db8ff"
 page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#B0E0E6"
-footer-text-col: "#ccf2ff"
+footer-text-col: "#404040"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
