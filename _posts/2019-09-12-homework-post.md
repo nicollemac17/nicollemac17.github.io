@@ -2,6 +2,7 @@
 layout: post
 title: Deliverables - About Me and My Experiences 
 subtitle: Homework Assignment 1
+bigimg: img/31100309_1615196665261201_6532543996234095130_n.jpg
 tags: [homework, assignments, sewing]
 comments: true
 ---
