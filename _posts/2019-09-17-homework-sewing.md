@@ -7,7 +7,7 @@ tags: [homework, assignments, sewing]
 comments: true
 ---
 ## Here is my newest attempt at embroidery!
-![Sewing Picture 1](https://nicollemc17.github.io/bphoto/IMG-2327.JPG) 
+![Sewing~](https://IMG-2327.JPG)
 
 This was a wonderful experience! I find it super relaxing to sew, and also be able to learn a new skill! 
 
