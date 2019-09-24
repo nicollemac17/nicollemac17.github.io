@@ -2,12 +2,12 @@
 layout: post
 title: The First Embroidery Project  
 subtitle: Homework Assignment 2 - Due 9/24/2019
-bigimg: img/
+bigimg: img/IMG-2327.JPG
 tags: [homework, assignments, sewing]
 comments: true
 ---
 ## Here is my newest attempt at embroidery!
-![Sewing 1](https://nicollemc17.github.io/img/ INSERT NAME HERE!!!) 
+![Sewing 1](https://nicollemc17.github.io/img/IMG-2327.JPG) 
 
 This was a wonderful experience! I find it super relaxing to sew, and also be able to learn a new skill! 
 
