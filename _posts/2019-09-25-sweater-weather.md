@@ -6,7 +6,7 @@ tags: [homework, assignments, sewing]
 comments: true
 ---
 
-### Assignment: 
+# Assignment: 
 Our assignment for today was to create a code that tells you whether or not you need a sweater given a temperature. I did this by using "if, else if, and else" statements. For instance, if the weather is between 60 degrees and 32 degrees, the coding will tell you "It's time to bring out the sweaters." There are many different outputs that one can receive given the temperature that is input into the system.
 
 
