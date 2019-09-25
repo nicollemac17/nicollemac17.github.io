@@ -25,6 +25,7 @@ I'm excited with the outcome of the project!
 Stay tuned for some more exciting coding adventures! Until next time! 
 
 XOXO, 
+
 Coding Girl
 
 
