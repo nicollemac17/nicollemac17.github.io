@@ -2,7 +2,7 @@
 layout: post
 title: The First Embroidery Project  
 subtitle: Homework Assignment 2 - Due 9/24/2019
-bigimg: IMG-2327.JPG
+bigimg: img/IMG-2327.JPG
 tags: [homework, assignments, sewing]
 comments: true
 ---
