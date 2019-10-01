@@ -11,17 +11,20 @@ Our assignment for today was to create a light up plushy. First, I had to do a p
 
 ## Look for yourself!
 
-![The Front - 1](https://nicollemac17.github.io/img/Screen Shot 2019-09-25 at 4.03.45 PM.png)
+![Image 1 - Prototype](https://nicollemac17.github.io/img/IMG-2415.JPG)
 
-![The Back - 2](https://nicollemac17.github.io/img/Screen Shot 2019-09-25 at 4.04.22 PM.png)
+![Image 2 - Prototype](https://nicollemac17.github.io/img/IMG-2416.JPG)
 
-![Alligator Prototyping - 3](https://nicollemac17.github.io/img/Screen Shot 2019-09-25 at 4.04.54 PM.png)
+![Paper Plushy Prototyping - 3](https://nicollemac17.github.io/img/IMG-2417.JPG)
 
-![Plushy Paper Prototype - 4](https://nicollemac17.github.io/img/Screen Shot 2019-09-25 at 4.07.13 PM.png)
+![Plushy - The Front - 4](https://nicollemac17.github.io/img/IMG-2422.JPG)
+
+![Plushy - The Back - 5](https://nicollemac17.github.io/img/IMG-2422.JPG)
 
 I'm excited with the outcome of the project! 
 
 ## Some advice I would give my past self:
+Pay attention on how you are putting the battery on to the plushy. Positive with the positive. Negative with the negative.
 
 Stay tuned for some more exciting coding adventures! Until next time! 
 
