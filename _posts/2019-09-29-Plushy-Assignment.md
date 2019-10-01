@@ -2,6 +2,7 @@
 layout: post
 title: Plushy Assignment!  
 subtitle: Homework Assignment 4 - Due 10/01/2019
+bigimg: img/IMG-20191001-0955451.jpg
 tags: [homework, assignments, sewing, coding]
 comments: true
 ---
