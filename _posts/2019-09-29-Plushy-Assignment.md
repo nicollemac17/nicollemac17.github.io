@@ -22,7 +22,7 @@ Our assignment for today was to create a light up plushy. First, I had to do a p
 
 ![Plushy - The Front - 5](https://nicollemac17.github.io/img/IMG-2422.JPG)
 
-![Plushy - The Back - 6](https://nicollemac17.github.io/img/IMG-2422.JPG)
+![Plushy - The Back - 6](https://nicollemac17.github.io/img/IMG-2421.JPG)
 
 I'm excited with the outcome of the project! 
 
