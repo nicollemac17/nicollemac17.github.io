@@ -7,7 +7,7 @@ comments: true
 ---
 
 ## Assignment: 
-Our assignment for today was to create a light up plushy. First, I had to do a paper prototype of the plushy to make sure that the way the project was being set up was using the resources in the best possible way. Next, I had to try take the paper prototype and apply it to a more concrete way to make sure it works. To do this, you have to use alligator clips along with lilypad LEDs, battery holders, a slide switch, and a button. Once this works, you then begin to apply the mechanisms to the felt paper and secure it by using conductive thread. Finally, you perform some plushy surgery and put the plushy together to make a light-up stuffed animal!
+Our assignment for today was to create a light up plushy. First, I had to do a paper prototype of the plushy to make sure that the way the project was being set up was using the resources in the best possible way. Next, I had to take the paper prototype and apply it to a more concrete way to make sure it works. To do this, you have to use alligator clips along with lilypad LEDs, battery holders, a slide switch, and a button. Once this works, you then begin to apply the mechanisms to the felt paper and secure it by using conductive thread. Finally, you perform some plushy surgery and put the plushy together to make a light-up stuffed animal!
 
 ## Look for yourself!
 
