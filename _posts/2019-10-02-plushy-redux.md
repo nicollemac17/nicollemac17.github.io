@@ -11,13 +11,15 @@ The program will predict whether the LED lights will turn on based on whether th
 
 ## Look at what I did!
 
-![Image 1 - Prototype](https://nicollemac17.github.io/img/IMG-2415.JPG)
+![Image 1](https://nicollemac17.github.io/img/Screen Shot 2019-10-02 at 8.16.05 PM.png)
 
-![Image 2 - Prototype](https://nicollemac17.github.io/img/IMG-2416.JPG)
+![Image 2](https://nicollemac17.github.io/img/Screen Shot 2019-10-02 at 8.15.58 PM.png)
 
 
 ## Some advice I would give my past self:
-Comments are wonderful! We love them! A more helpful comment, be aware of formatting as well as how curly brackets connect with one another! 
+Comments are wonderful! We love them! 
+
+A more helpful comment, be aware of formatting as well as how curly brackets connect with one another! 
 
 Stay tuned for some more exciting coding adventures! Until next time! 
 
