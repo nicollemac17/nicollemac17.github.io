@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Plushy Redux!
-subtitle: Homework Assignment 6 - Due 10/03/2019
+title: Homemade Switches
+subtitle: Homework Assignment 7 - Due 10/08/2019
 tags: [homework, assignments, sewing, coding]
 comments: true
 ---
 
 ## Assignment: 
-The program will predict whether the LED lights will turn on based on whether the swtich and the button are on or pressed, respectively. If the button is pressed and switch is on, then all the LEDs will turn on. If not, the LED lights will not turn on. 
+The assignment was to create a switch on the fabric that we used for our sewing sampler. I added some LED lights as well as use conductive fabric to accomplish this task.
 
 ## Look at what I did!
 
@@ -17,9 +17,8 @@ The program will predict whether the LED lights will turn on based on whether th
 
 
 ## Some advice I would give my past self:
-Comments are wonderful! We love them! 
+Start earlier! You have a problem set and lots of sewing to do! 
 
-A more helpful comment, be aware of formatting as well as how curly brackets connect with one another! 
 
 Stay tuned for some more exciting coding adventures! Until next time! 
 
