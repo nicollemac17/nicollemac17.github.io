@@ -17,7 +17,7 @@ The assignment was to program a code that reflected the light patterns of the fi
 
 
 ## Some advice I would give my past self:
-Be incredibly careful about how you use the fade and other components to get the effect that you want.
+Be incredibly careful about how you use the fade and other components to get the effect that you want in the Big Dipper assignment.
 
 
 Stay tuned for some more exciting coding adventures! Until next time! 
