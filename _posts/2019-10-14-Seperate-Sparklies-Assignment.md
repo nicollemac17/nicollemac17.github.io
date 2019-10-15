@@ -11,9 +11,9 @@ The assignment was to program a code that reflected the light patterns of the fi
 
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/IMG-2518)
-![Image 2](https://nicollemac17.github.io/img/IMG-2516)
-![Image 3](https://nicollemac17.github.io/img/IMG-2519)
+![Image 1](https://nicollemac17.github.io/img/IMG-2518.JPG)
+![Image 2](https://nicollemac17.github.io/img/IMG-2516.JPG)
+![Image 3](https://nicollemac17.github.io/img/IMG-2519.JPG)
 
 
 ## Some advice I would give my past self:
