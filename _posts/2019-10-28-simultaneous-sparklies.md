@@ -11,14 +11,10 @@ The assignment was to program a code that reflected the light patterns of the fi
 
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/IMG-2518.JPG)
-![Image 2](https://nicollemac17.github.io/img/IMG-2516.JPG)
-![Image 3](https://nicollemac17.github.io/img/IMG-2519.JPG)
-
+![Image 1](https://nicollemac17.github.io/img/unnamed.jpg)
 
 ## Some advice I would give my past self:
-Be incredibly careful about how you use the fade and other components to get the effect that you want in the Big Dipper assignment.
-
+Ask for help! Don't wait to do so! 
 
 Stay tuned for some more exciting coding adventures! Until next time! 
 
