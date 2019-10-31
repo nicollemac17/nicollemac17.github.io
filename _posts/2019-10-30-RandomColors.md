@@ -11,7 +11,7 @@ When a button is pressed, the LilyPad should produce a random color light. If th
 
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/unnamed.jpg)
+![Image 1](https://nicollemac17.github.io/img/unnamed (1).jpg)
 
 ## Some advice I would give my past self:
 Oh my goodness, please don't forget the curly brackets! 
