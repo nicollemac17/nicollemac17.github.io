@@ -11,8 +11,8 @@ The program turns on the red lights when it is cold enough for ghosts to be ~thr
 
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/IMG_6886 2.HEIC)
-![Image 2](https://nicollemac17.github.io/img/IMG_8992 2.HEIC)
+![Image 1](https://nicollemac17.github.io/img/IMG_6886 2.jpg)
+![Image 2](https://nicollemac17.github.io/img/IMG_8992 2.jpg)
 
 ## Some advice I would give my past self:
 Make sure that the variables you're using are being used accurately. If TempSensor and TempValue both exist, make sure you're using them the right way!
