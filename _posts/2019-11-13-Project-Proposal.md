@@ -13,7 +13,7 @@ I decided to make mine have colorful lights, but when it gets hot and the lights
 
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/IMG-2750.JPG)
+![Image 1](https://nicollemac17.github.io/img/CSCI103_ Project-Prototype-Presentation.jpg)
 
 ## Some advice I would give my past self:
 Have a backup plan. I wanted to use a heart rate monitor but struggled with what to do when I realized that that wasn't a possible option. 
