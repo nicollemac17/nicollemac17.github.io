@@ -10,7 +10,7 @@ comments: true
 Learn how to use arrays, and by doing so take a random PWM pin and select a random brightness. Turn the light on for a second, then turn it off. Then repeat with a different brightness and another random PWM pin.
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/)
+![Image 1](https://nicollemac17.github.io/img/IMG_2856.jpg)
 
 ## Some advice I would give my past self:
 I was so overwhelmed with this assignment, that it was paralyzing. The TAs are a great help.
