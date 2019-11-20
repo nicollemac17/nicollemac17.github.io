@@ -11,7 +11,7 @@ I made a paper prototype of what my final project will look like. With this pape
 
 ## Look at what I did!
 
-![Image 1](https://nicollemac17.github.io/img/IMG_2856.jpg)
+![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
 
 ## Some advice I would give my past self:
 I was so overwhelmed with this assignment, that it was paralyzing. The TAs are a great help.
