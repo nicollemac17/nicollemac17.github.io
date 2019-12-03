@@ -32,6 +32,8 @@ I'm always dehydrated and it would be nice to have a reminder every once in a wh
 ### 5. Photo of at least 3 stages of your working project (or video)
 ![Image 2](https://nicollemac17.github.io/img/IMG_8892.jpg)
 ![Image 3](https://nicollemac17.github.io/img/IMG_0571.jpg)
+
+### Check out the video by copying (and then pasting it into your browser with) this link: 
 https://drive.google.com/file/d/1Sr8stEBX9sx2UdeFiZIeigWOZL9CI4Es/view?usp=sharing
 
 
