@@ -12,14 +12,14 @@ comments: true
 #### Movitation: I'm always dehydrated and it would be nice to have a reminder every once in a while. 
 
 ### 2. Materials list: 
-* 6 Blue LED lights 
-* Arduino board 
-* LiPo Rechargeable Battery
-* Temperature Sensor
-* Light Sensor 
-* Conductive Thread
-* Conductive Fabric 
-* Allegator Clips
+ * 6 Blue LED lights 
+ * Arduino board 
+ * LiPo Rechargeable Battery
+ * Temperature Sensor
+ * Light Sensor 
+ * Conductive Thread
+ * Conductive Fabric 
+ * Allegator Clips
 
 ### 3. Screenshot of your revised paper prototype of your project:
 ![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
@@ -31,9 +31,9 @@ comments: true
 ![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
 
 ### 6. 3 tips to your past self: 
-* Conductive thread is the worst and does not work. Please remember this going forward. 
-* TAs are your best friends. 
-* The ardunio board will heat up for some stupid reason, and please be careful if/when you touch it. My finger now has a burn. Try not to do this to yourself! 
+ * Conductive thread is the worst and does not work. Please remember this going forward. 
+ * TAs are your best friends. 
+ * The ardunio board will heat up for some stupid reason, and please be careful if/when you touch it. My finger now has a burn. Try not to do this to yourself! 
 
 ### 7. Citations of any resources used
 The music for "Never Gonna Give You Up" came from here: https://github.com/robsoncouto/arduino-songs/blob/master/nevergonnagiveyouup/nevergonnagiveyouup.ino
