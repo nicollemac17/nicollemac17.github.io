@@ -24,7 +24,7 @@ I'm always dehydrated and it would be nice to have a reminder every once in a wh
  * Allegator Clips
 
 ### 3. Screenshot of your revised paper prototype of your project:
-![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
+![Image 1](https://nicollemac17.github.io/img/updated-paper-prototype.jpg)
 
 ### 4. Photo of your alligator prototype working
 ![Image 1](https://nicollemac17.github.io/img/IMG_3842.jpg)
