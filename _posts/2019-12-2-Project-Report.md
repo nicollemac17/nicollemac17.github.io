@@ -27,10 +27,13 @@ I'm always dehydrated and it would be nice to have a reminder every once in a wh
 ![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
 
 ### 4. Photo of your alligator prototype working
-![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
+![Image 1](https://nicollemac17.github.io/img/IMG_3842.jpg)
 
 ### 5. Photo of at least 3 stages of your working project (or video)
-![Image 1](https://nicollemac17.github.io/img/CSCI_103_ Project_Prototype_Presentation.jpg)
+![Image 2](https://nicollemac17.github.io/img/IMG_8892.jpg)
+![Image 3](https://nicollemac17.github.io/img/IMG_0571.jpg)
+![Video 4](https://nicollemac17.github.io/img/IMG_3017.MOV)
+
 
 ### 6. 3 tips to your past self: 
  * Conductive thread is the worst and does not work. Please remember this going forward. 
