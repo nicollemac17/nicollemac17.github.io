@@ -8,10 +8,10 @@ comments: true
 
 ## Assignment:
 ### 1. Project title: Responsible Party Jacket
-####Description: This jacket turns on LED lights and plays "Never Gonna Give You Up" when it is hot and dark in a room. The lights are blue so that you remember to drink water.
-####Movitation: I'm always dehydrated and it would be nice to have a reminder every once in a while. 
+#### Description: This jacket turns on LED lights and plays "Never Gonna Give You Up" when it is hot and dark in a room. The lights are blue so that you remember to drink water.
+#### Movitation: I'm always dehydrated and it would be nice to have a reminder every once in a while. 
 
-###2. Materials list: 
+### 2. Materials list: 
 * 6 Blue LED lights 
 * Arduino board 
 * LiPo Rechargeable Battery
